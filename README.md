@@ -1,6 +1,5 @@
 # Realtime Human Pose Estimation - OpenCV - Mediapipe
 
-**Complete Video Tutorial:** https://youtu.be/JetpMzU8-Pc
 
 # Dataset Information
 
